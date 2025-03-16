@@ -23,7 +23,7 @@ It can detect **Lung Cancer, Cervical Cancer, Breast Cancer, Thyroid Cancer, and
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/cancer-prediction-ml.git
+git clone https://github.com/Venkata-sai-koushik-M/cancer_prediction_using_ML.git
 cd cancer-prediction-ml
 ```
 
@@ -91,5 +91,6 @@ This project is open-source. Feel free to use and improve it. 🚀
 If you have any issues, feel free to create an **Issue** on GitHub or contact me. 
 
 ## Authors
--[M.Venkata sai koushik][https://github.com/Venkata-sai-koushik-M?tab=repositories]
--[R.L.Sriyutha][https://github.com/Venkata-sai-koushik-M?tab=repositories]
+1-[M.Venkata sai koushik][https://github.com/Venkata-sai-koushik-M?tab=repositories]
+
+2-[R.L.Sriyutha][https://github.com/Sriyutha-R-L]
